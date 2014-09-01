@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="CocosDenshion"/>
+	<classpathentry excluding="com/easyndk/EasyNDK.java" kind="src" path="android-EasyNDK"/>
+	<classpathentry kind="src" path="src-cocos2dx"/>
+	<classpathentry kind="src" path="src-SoomlaAndroidCore"/>
+	<classpathentry kind="src" path="src-SoomlaCocos2dx"/>
+	<classpathentry kind="src" path="src-SoomlaSubmodule"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="lib" path="/Users/leadprogrammer/Documents/TD/_PomeloLibrary/GameFoundation/extensions/cocos2dx-store/submodules/android-store/SoomlaAndroidStore/libs/square-otto-1.3.2.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
